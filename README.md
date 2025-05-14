@@ -5,7 +5,7 @@ Currently working on learning **HTML**, **CSS**, and a bit of **Python**.
 
 ## My Skill Set
 
-My current skills primarily consist of hardware management, expanding to writing programs.
+My current skills primarily consist of being a sysadmin, learning languages on the side.
 
 ## Languages I Know
 - Python (very beginner syntax)
